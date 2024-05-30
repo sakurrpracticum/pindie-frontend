@@ -1,4 +1,4 @@
-export const BASE_URL = 'https://sakurr-backend.nomorepartiesco.ru'
+export const BASE_URL = 'https://sakurr-backend.nomorepartiesco.ru/api'
 
 export const endpoints = {
   games: `${BASE_URL}/games`,
